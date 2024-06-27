@@ -1024,3 +1024,4 @@ Quote on |Thu, 27 Jun 2024 20:32:17 GMT| :  Do the one thing you think you canno
 Quote on |Thu, 27 Jun 2024 20:40:12 GMT| :  You can observe a lot just by watching. - Yogi Berra
 Quote on |Thu, 27 Jun 2024 20:48:09 GMT| :  The cautious seldom err. - Confucius
 Quote on |Thu, 27 Jun 2024 20:55:55 GMT| :  The best thing about the future is that it only comes one day at a time. - Abraham Lincoln
+Quote on |Thu, 27 Jun 2024 21:10:55 GMT| :  Programs must be written for people to read, and only incidentally for machines to execute. - Hal Abelson
